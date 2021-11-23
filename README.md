@@ -8,5 +8,7 @@ This program creates a cartoonified image of a person's face or any other image,
 - OpenCV
 
 ## How to run the program
-- Run the python file in virutal environment or directly, you may be prompted to select the image file which has to be cartoonified
+- Run the python file in virutal environment or directly.
+
+You may be prompted to select the image file which has to be cartoonified
 - Open the image and the rest of the work is done by OpenCV library.
